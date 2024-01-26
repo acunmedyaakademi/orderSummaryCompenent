@@ -53,3 +53,10 @@ body{
     border-radius: 11px;
     background: #F7F9FF;
 }
+
+.group-3 {
+    width: 306px;
+    height: 48px;
+    flex-shrink: 0;
+    display: flex;
+}
