@@ -44,3 +44,12 @@ body{
     line-height: 26px;
     padding: 0 48px;
 }
+
+.group-4 {
+    width: 354px;
+    height: 98px;
+    flex-shrink: 0;
+    margin:  20px 48px 32px 48px;
+    border-radius: 11px;
+    background: #F7F9FF;
+}
