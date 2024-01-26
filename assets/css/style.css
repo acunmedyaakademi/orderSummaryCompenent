@@ -125,3 +125,13 @@ a {
     border: none;
     margin: 15px 102px 15px 102px;
 }
+
+.container-text-4{
+    margin: 0px 178px 49px 176px;
+    color: #717FA6;
+    font-family: "Red Hat Display";
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+}
