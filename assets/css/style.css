@@ -9,3 +9,12 @@ body{
     background: #606e99;
     padding: 50px;
 }
+
+.container{
+    width: 1440px;
+    height: 900px;
+    background: #E0E8FF;
+    margin: 0 auto;
+    align-content: center;
+    padding: 102px 495px;
+}
