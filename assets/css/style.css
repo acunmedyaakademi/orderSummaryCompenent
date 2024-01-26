@@ -35,3 +35,12 @@ body{
     padding: 45px 0 17px;
     text-align: center;
 }
+
+.container-text-2{
+    color: #717FA6;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 26px;
+    padding: 0 48px;
+}
