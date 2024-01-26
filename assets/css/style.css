@@ -60,3 +60,10 @@ body{
     flex-shrink: 0;
     display: flex;
 }
+
+.img-2 {
+    width: 48px;
+    height: 48px;
+    flex-shrink: 0;
+    margin: 25px 0 25px 24px;
+}
