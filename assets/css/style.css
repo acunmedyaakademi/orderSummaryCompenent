@@ -26,3 +26,12 @@ body{
     background: #FFF;
     box-shadow: 0px 40px 40px -20px #0d30bd26;
 }
+
+.container-text-1{
+    color: #1F2E55;
+    font-size: 28px;
+    font-weight: 900;
+    line-height: normal;
+    padding: 45px 0 17px;
+    text-align: center;
+}
