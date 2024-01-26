@@ -67,3 +67,15 @@ body{
     flex-shrink: 0;
     margin: 25px 0 25px 24px;
 }
+
+.group {
+    display: inline-flex;
+    height: 48px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 6px;
+    flex-shrink: 0;
+    margin: 25px 0 52px 20px;
+}
